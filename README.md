@@ -1,2 +1,2 @@
 # dmst-algorithms-course
-Assigments for Algoriths course (of DMST, AUEB)
+Assigments for Algorithms course (of DMST, AUEB)
